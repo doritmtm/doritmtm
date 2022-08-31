@@ -1,21 +1,27 @@
-Projects I contributed in college:
+# Repositories Details
+### Projects:
+1.&nbsp; DotNetCars &nbsp;( .Net SQL Server )
 
-SMA21-Project ( Java )
+   - A website to show and manage details about cars
 
-- A file manager for Android built in Android Studio
+### Projects I contributed in college:
 
-CristianaLucaci/PCBE-SistemBirocratic ( Java )
+2.&nbsp; SMA21-Project &nbsp;( Java )
 
-- A bureaucracy application that simulates clients waiting to get documents from counters. It is a multithreaded application where a thread represents a client.
+   - A file manager for Android built in Android Studio
 
-Wargame ( Java Swing )
+3.&nbsp; CristianaLucaci/PCBE-SistemBirocratic &nbsp;( Java )
 
-- A application simulating a rts game where you can train troops and attack other players.
+   - A bureaucracy application that simulates clients waiting to get documents from counters. It is a multithreaded application where a thread represents a client.
 
-amaliamuresan/Movie-Tracking-App ( Java Spring Firebase )
+4.&nbsp; Wargame &nbsp;( Java Swing )
 
-- A web application for finding and tracking movies. By tracking, we mean saving what movies were watched by a user in it's user account.
+   - A application simulating a rts game where you can train troops and attack other players.
 
-amaliamuresan/Quiz-Socket-Application ( C Sockets )
+5.&nbsp; amaliamuresan/Movie-Tracking-App &nbsp;( Java Spring Firebase )
 
-- A quiz usable by multiple users simultaneously. A user answers the quiz and other users can view the answers to the quiz at runtime. Synchronization is done using sockets.
+   - A web application for finding and tracking movies. By tracking, we mean saving what movies were watched by a user in it's user account.
+
+6.&nbsp; amaliamuresan/Quiz-Socket-Application &nbsp;( C Sockets )
+
+   - A quiz usable by multiple users simultaneously. A user answers the quiz and other users can view the answers to the quiz at runtime. Synchronization is done using sockets.
