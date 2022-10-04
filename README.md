@@ -5,7 +5,7 @@
    - A website to show and manage details about cars
 
 ### Projects I contributed in college:
-1.&nbsp; Staecrafter &nbsp;( Unreal Engine C++ ) ( Bachelor Thesis )
+1.&nbsp; Staecrafter &nbsp;( Unreal Engine C++ )&nbsp; ( Bachelor Thesis )
 
    - A RTS game involving creation of workers and soldiers and building and growing your base and defeating your enemy.
 
