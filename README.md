@@ -20,6 +20,7 @@
 4.&nbsp; WebGLCubes &nbsp;( WebGL JavaScript HTML )
 
    - A game about avoiding cubes of different color than your player cube.
+   - Github Pages link: https://doritmtm.github.io/WebGLCubes/
 
 5.&nbsp; CristianaLucaci/PCBE-SistemBirocratic &nbsp;( Java )
 
@@ -41,4 +42,5 @@
 1.&nbsp; ChildGamesWebsite &nbsp;( HTML CSS JavaScript JQuery )
 
    - My childhood personal games done with web pages: Airplanes, Dice rolling, Gravity Action, Prime Number Generator, Match 3 Game and Tic Tac Toe.
+   - Github Pages link: https://doritmtm.github.io/ChildGamesWebsite/
    
