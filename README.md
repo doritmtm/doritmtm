@@ -1,8 +1,8 @@
 # My website
 ### Please check my website:
-   - darimarsystem.com
+   - https://darimarsystem.com
 ### ChildGamesWebsite is also hosted to:
-   - childgames.darimarsystem.com
+   - http://childgames.darimarsystem.com
 
 # Repositories Details
 ### Projects:
