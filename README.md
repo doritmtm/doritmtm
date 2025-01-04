@@ -14,12 +14,12 @@ Below is described my personal portfolio with an tremendous number of exciting s
 ### Projects:
 1.&nbsp; DarimarSystemWebsite &nbsp;( .Net 8 ASP.NET Blazor )
 
-   - A website currently in development that will host a presentation about Darimar System SRL
+   - A website currently in development that will host a presentation about Darimar System SRL.
    - It is hosted at: https://darimarsystem.com
 
 2.&nbsp; DotNetCars &nbsp;( .Net SQL Server )
 
-   - A website to show and manage details about cars
+   - A website to show and manage details about cars.
 
 ### Projects I contributed in college:
 1.&nbsp; Staecrafter &nbsp;( Unreal Engine C++ )&nbsp; ( Bachelor Thesis )
@@ -32,7 +32,7 @@ Below is described my personal portfolio with an tremendous number of exciting s
    
 3.&nbsp; SMA21-Project &nbsp;( Java )
 
-   - A file manager for Android built in Android Studio
+   - A file manager for Android built in Android Studio.
    
 4.&nbsp; WebGLCubes &nbsp;( WebGL JavaScript HTML )
 
