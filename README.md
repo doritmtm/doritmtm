@@ -12,7 +12,7 @@ Below is described my personal portfolio with an tremendous number of exciting s
 
 # Repositories Details
 ### Projects:
-1.&nbsp; DarimarSystemWebsite &nbsp;( .Net 8 ASP.NET Blazor )
+1.&nbsp; DarimarSystemWebsite &nbsp;( .Net 8 ASP.NET Blazor MudBlazor )
 
    - A website currently in development that will host a presentation about Darimar System SRL.
    - It is hosted at: https://darimarsystem.com
