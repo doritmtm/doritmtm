@@ -20,6 +20,10 @@ Below is described my personal portfolio with an tremendous number of exciting s
 2.&nbsp; DotNetCars &nbsp;( .Net SQL Server )
 
    - A website to show and manage details about cars.
+     
+3.&nbsp; TokeroDevTestingPlaywright &nbsp;( .Net Playwright )
+
+   - Testing tokero.dev website using Playwright technology.
 
 ### Projects I contributed in college:
 1.&nbsp; Staecrafter &nbsp;( Unreal Engine C++ )&nbsp; ( Bachelor Thesis )
