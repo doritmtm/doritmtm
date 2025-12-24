@@ -1,5 +1,5 @@
 # About me
-Passionate .NET developer with 2 years of experience creating and improving software systems. In collaboration with the development teams, I have contributed to software development projects and achieved robust, excellent results with great user satisfaction on time and budget.
+Passionate .NET developer with 3 years of experience creating and improving software systems. In collaboration with the development teams, I have contributed to software development projects and achieved robust, excellent results with great user satisfaction on time and budget.
 
 Throughout my career, college and childhood, I was excited to learn and foster my software development skills, being very excited to learn more about computers how they operate and how can they host video games :)
 
