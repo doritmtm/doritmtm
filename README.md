@@ -32,7 +32,7 @@ Below, my personal portfolio is described with an tremendous number of exciting 
 
 2.&nbsp; Staeball &nbsp;( Unity C# ) &nbsp;( Stahe Ball on Google Play )
 
-   - A mini game where you drive a ball rolling on a floor according to the gyroscope sensor, therefore simulating a tilt of the platform, to the destination.
+   - A mini game where you drive a ball rolling on a floor according to the gyroscope sensor (therefore simulating a tilt of the platform) to the destination.
    
 3.&nbsp; SMA21-Project &nbsp;( Java )
 
