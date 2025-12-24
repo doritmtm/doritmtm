@@ -3,7 +3,7 @@ Passionate .NET developer with 3 years of experience creating and improving soft
 
 Throughout my career, college and childhood, I was excited to learn and foster my software development skills, being very excited to learn more about computers how they operate and how can they host video games :)
 
-Below is described my personal portfolio with an tremendous number of exciting software projects and contributions.
+Below, my personal portfolio is described with an tremendous number of exciting software projects and contributions.
 # My website
 ### Please check my website:
    - https://darimarsystem.com
