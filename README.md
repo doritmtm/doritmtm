@@ -30,7 +30,7 @@ Below, my personal portfolio is described with an tremendous number of exciting 
 
    - A RTS game involving creation of workers and soldiers and building and growing your base and defeating your enemy.
 
-2.&nbsp; Staeball &nbsp;( Unity C# )
+2.&nbsp; Staeball &nbsp;( Unity C# ) &nbsp;( Stahe Ball on Google Play )
 
    - A mini game where you drive a ball rolling on a floor according to the gyroscope sensor, therefore simulating a tilt of the platform, to the destination.
    
