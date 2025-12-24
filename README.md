@@ -7,8 +7,6 @@ Below, my personal portfolio is described with an tremendous number of exciting 
 # My website
 ### Feel free to check my website:
    - https://darimarsystem.com
-### ChildGamesWebsite is also hosted at:
-   - http://childgames.darimarsystem.com
 
 # Repositories Details
 ### Projects:
