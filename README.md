@@ -5,7 +5,7 @@ Throughout my career, college and childhood, I was excited to learn and foster m
 
 Below, my personal portfolio is described with an tremendous number of exciting software projects and contributions.
 # My website
-### Please check my website:
+### Feel free to check my website:
    - https://darimarsystem.com
 ### ChildGamesWebsite is also hosted at:
    - http://childgames.darimarsystem.com
