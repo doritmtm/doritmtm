@@ -1,66 +1,82 @@
-# About me
-Passionate .NET developer with 3 years of experience creating and improving software systems. In collaboration with the development teams, I have contributed to software development projects and achieved robust, excellent results with great user satisfaction on time and budget.
+# Hi, I'm Dorian 👋
 
-Throughout my career, college and childhood, I was excited to learn and foster my software development skills, being very excited to learn more about how computers operate and how they host video games. Now that I have learned it, I am looking forward to earn even more experience from further exciting projects!
+.NET Software Engineer focused on building maintainable software systems using C#, .NET, WPF, Blazor and C++ technologies.
 
-Below, my personal portfolio is described with an tremendous number of exciting software projects and contributions.
-# My website
-### Feel free to check my website:
-   - https://darimarsystem.com
+## About Me
 
-# Repositories Details
-### Projects:
-1.&nbsp; DarimarSystemWebsiteBlazor &nbsp;( .Net 8 ASP.NET Blazor MudBlazor )
+* 💼 Software Engineer at Schaeffler Romania
+* ⚙️ Working on engineering and simulation software
+* 🤖 Exploring AI-assisted development workflows using GitHub Copilot and Claude
+* 🔌 Interested in MCP integrations and AI interoperability
+* 🌐 Expanding into modern ASP.NET and web application development
+* 🧪 Passionate about automated testing, CI/CD and software maintainability
 
-   - A website currently in development that will host a presentation about Darimar System SRL.
-   - It is hosted at: https://darimarsystem.com
+## Current Focus
 
-2.&nbsp; DotNetCars &nbsp;( .Net SQL Server )
+* AI-assisted engineering workflows
+* MCP integrations
+* Modern .NET application architecture
+* Development tooling and automation
 
-   - A website to show and manage details about cars.
-     
-3.&nbsp; TokeroDevTestingPlaywright &nbsp;( .Net Playwright )
+## Technologies
 
-   - Testing tokero.dev website using Playwright technology.
+**Languages**
 
-### Projects I contributed in college:
-1.&nbsp; Staecrafter &nbsp;( Unreal Engine C++ )&nbsp; ( Bachelor Thesis )
+* C#
+* C++
+* JavaScript
 
-   - A RTS game involving creation of workers and soldiers and building and growing your base and defeating your enemy.
+**Frameworks**
 
-2.&nbsp; Staeball &nbsp;( Unity C# ) &nbsp;( Stahe Ball on Google Play )
+* .NET
+* WPF
+* Blazor
+* ASP.NET Core
 
-   - A mini game where you drive a ball rolling on a floor according to the gyroscope sensor (therefore simulating a tilt of the platform) to the destination.
-   
-3.&nbsp; SMA21-Project &nbsp;( Java )
+**Tools**
 
-   - A file manager for Android built in Android Studio.
-   
-4.&nbsp; WebGLCubes &nbsp;( WebGL JavaScript HTML )
+* GitHub
+* GitHub Actions
+* Visual Studio
+* VS Code
+* Jenkins
+* Docker
 
-   - A game about avoiding cubes of different color than your player cube.
-   - Github Pages link: https://doritmtm.github.io/WebGLCubes/
+## Featured Projects
 
-5.&nbsp; CristianaLucaci/PCBE-SistemBirocratic &nbsp;( Java )
+### Darimar System Website
 
-   - A bureaucracy application that simulates clients waiting to get documents from counters. It is a multithreaded application where a thread represents a client.
+Blazor-based company presentation website with CI/CD deployment workflows.
 
-6.&nbsp; Wargame &nbsp;( Java Swing )
+### RenderCV Resume Infrastructure
 
-   - A application simulating a rts game where you can train troops and attack other players.
+AI-assisted resume engineering workflow using RenderCV, GitHub Actions and Claude.
 
-7.&nbsp; amaliamuresan/Movie-Tracking-App &nbsp;( Java Spring Firebase )
+### Game Development Projects
 
-   - A web application for finding and tracking movies. By tracking, we mean saving what movies were watched by a user in it's user account.
+Personal projects built with Unity, Unreal Engine and C# / C++ technologies.
 
-8.&nbsp; amaliamuresan/Quiz-Socket-Application &nbsp;( C Sockets )
+## Personal Projects
 
-   - A quiz usable by multiple users simultaneously. A user answers the quiz and other users can view the answers to the quiz at runtime. Synchronization is done using sockets.
+### Stahe Ball
 
-### Projects done before college:
-1.&nbsp; ChildGamesWebsite &nbsp;( HTML CSS JavaScript JQuery )
+Android game developed with Unity and C#, focused on gameplay systems and mobile deployment workflows.
 
-   - My childhood personal games done with web pages: Airplanes, Dice rolling, Gravity Action, Prime Number Generator, Match 3 Game and Tic Tac Toe.
-   - Github Pages link: https://doritmtm.github.io/ChildGamesWebsite/
-   - Website link: http://childgames.darimarsystem.com
-   
+### Staecrafter
+
+Strategy game and bachelor's degree capstone project developed using Unreal Engine and C++, focused on gameplay architecture and engine-based development.
+
+## Interests
+
+* Software Architecture
+* AI Integration
+* Engineering Tooling
+* Developer Productivity
+* Web Technologies
+* Desktop Applications
+* Automation
+
+## Contact
+
+* LinkedIn: linkedin.com/in/dorian-sebastian-morariu
+* GitHub: github.com/doritmtm
